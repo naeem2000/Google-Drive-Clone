@@ -1,0 +1,19 @@
+.sidebar{
+    width: 20%;
+    height: 92vh;
+    margin-right: 5px;
+}
+
+hr{
+    background-color: rgb(197, 197, 197);
+    height: 1px;
+    border: none;
+}
+
+@media only screen and (max-width: 760px) {
+    .sidebar {
+        width: 30%;
+        font-size: 10px;
+        padding: 0;
+    }
+} 
