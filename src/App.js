@@ -12,8 +12,8 @@ import { useState } from 'react';
 function App() {
   // const [user, setUser] = useState()
   const [user, setUser] = useState({
-    displayName: "David Rakosi",
-    email: "david@cleverprogrammer.com",
+    displayName: "Naeem Carr",
+    email: "mogamatnaeemcarr@gmail.com",
     emailVerified: true,
     phoneNumber: null,
     photoURL: "https://www.stockadda.com/media/uploads/photos/4295/7912/67234b71b2d6c6a509a8b66e284f0190_thumbnail.jpg"
